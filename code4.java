@@ -46,5 +46,7 @@ class GFG
         bubbleSort(arr, n);
         System.out.println("Sorted array: ");
         printArray(arr, n);
+        System.out.println("Got the result");
+
     }
 }
